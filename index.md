@@ -4,4 +4,6 @@
 ``` javascript
 var myVar = "Sanam Teri Kasam";
 ```
-
+- [ ] Learn Github
+- [ ] Achieve my dreams
+- [ ] Own a Thar
